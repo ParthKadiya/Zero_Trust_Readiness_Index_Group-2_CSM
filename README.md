@@ -66,5 +66,5 @@ This research extends the work of **Yeoh et al. (2023)** — *“Zero Trust Cybe
 6. Cybersecurity and Infrastructure Security Agency (CISA). (2023). *Zero Trust Maturity Model v2.* *U.S. Department of Homeland Security.*  
 7. Microsoft Corporation. (2024). *AI and Zero Trust Roadmap: A Strategic Implementation Guide.* *Microsoft White Paper.*  
 8. Kindervag, J. (2018). *Forrester Zero Trust eXtended (ZTX) Ecosystem.* *Forrester Research.*  
-9. National Institute of Standards and Technology (NIST). (2020). *Special Publication 800-207: Zero Trust Architecture.* *U.S. Department of Commerce*, Gaithersburg, MD. [https://doi.org/10.6028/NIST.SP.800-207](https://doi.org/10.6028/NIST.SP.800-207)  
-10. Yeoh, W., Liu, M., Shore, M., & Jiang, F. (2023). *Zero Trust Cybersecurity: Critical Success Factors and a Maturity Assessment Framework.* **Computers & Security**, 133, 103412. [https://doi.org/10.1016/j.cose.2023.103412](https://doi.org/10.1016/j.cose.2023.103412)  
+9. National Institute of Standards and Technology (NIST). (2020). *Special Publication 800-207: Zero Trust Architecture.* *U.S. Department of Commerce*, Gaithersburg, MD.
+10. Yeoh, W., Liu, M., Shore, M., & Jiang, F. (2023). *Zero Trust Cybersecurity: Critical Success Factors and a Maturity Assessment Framework.* **Computers & Security**, 133, 103412.  
