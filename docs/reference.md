@@ -6,7 +6,7 @@
 
 **Gartner Research. (2025).** *Emerging Technologies Driving Zero Trust Maturity Across Industries.* *Gartner Insights White Paper.*  
 
-**Ali, H., & Khan, A. (2022).** *A Maturity Framework for Zero-Trust Security in Multi-Access Edge Computing.* **Security and Communication Networks**, 2022, 1–15. [https://doi.org/10.1155/2022/9826314](https://doi.org/10.1155/2022/9826314)  
+**Ali, H., & Khan, A. (2022).** *A Maturity Framework for Zero-Trust Security in Multi-Access Edge Computing.* **Security and Communication Networks**, 2022, 1–15.
 
 **National Institute of Standards and Technology (NIST). (2024).** *Cybersecurity Framework 2.0 – Incorporating Zero Trust Principles (NIST CSWP 2.9).* *U.S. Department of Commerce*, Gaithersburg, MD.  
 
