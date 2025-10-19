@@ -1,6 +1,6 @@
-# 🧠 Developing a Zero Trust Readiness Index (ZTRI) to Measure Enterprise-wide Zero Trust Adoption
+# Developing a Zero Trust Readiness Index (ZTRI) to Measure Enterprise-wide Zero Trust Adoption
 
-## 📘 Overview
+## Overview
 This repository presents the research and supporting data for the paper **“Developing a Zero Trust Readiness Index (ZTRI) to Measure Enterprise-wide Zero Trust Adoption.”**  
 The study introduces a structured, quantifiable framework to evaluate organizational readiness for Zero Trust implementation across eight core dimensions of cybersecurity maturity.
 
@@ -9,7 +9,7 @@ By transforming qualitative findings from prior works into a **quantitative weig
 
 ---
 
-## 🎯 Research Objective
+## Research Objective
 The primary goal of this research is to establish a **measurable Zero Trust Readiness Index (ZTRI)** capable of quantifying the maturity of organizational Zero Trust initiatives.  
 It seeks to answer:
 - What are the most critical dimensions influencing Zero Trust adoption?
@@ -17,7 +17,7 @@ It seeks to answer:
 
 ---
 
-## 🧩 Methodology
+## Methodology
 This research applies a **Systematic Literature Review (SLR)** across ten selected academic and industry publications that address Zero Trust Architecture (ZTA), maturity models, and readiness assessment frameworks.
 
 **Key methodological steps:**
@@ -38,7 +38,7 @@ This research applies a **Systematic Literature Review (SLR)** across ten select
 
 ---
 
-## 💡 Novelty and Contribution
+## Novelty and Contribution
 This research extends the foundational work of **Yeoh et al. (2023)** — *“Zero Trust Cybersecurity: Critical Success Factors and a Maturity Assessment Framework”* — by transforming its **qualitative Delphi-based model** into a **quantitative scoring matrix**.
 
 **Novel Contributions:**
@@ -50,7 +50,7 @@ The ZTRI framework thus bridges the gap between **academic Zero Trust theory** a
 
 ---
 
-## 🧮 How to Use
+## How to Use
 1. Open the included Excel file: `ZTRI_Scoring_Calculation.xlsx`.  
 2. For each of the eight dimensions, assign a readiness score from **1 (Non-existent)** to **5 (Optimized)**.  
 3. The weighted score and overall readiness index will be calculated automatically.  
@@ -58,7 +58,7 @@ The ZTRI framework thus bridges the gap between **academic Zero Trust theory** a
 
 ---
 
-## 🧾 References
+## References
 
 1. Abbas, H., & Ahmed, M. (2025). *A Survey of Security in Zero Trust Network Architectures.* **IEEE Access**, 13, 15502–15524.  
 2. Nymalm, A. (2025). *Zero Trust Threat Modeling: STRIDE-ZTA.* Master’s Thesis, Metropolia University of Applied Sciences.  
