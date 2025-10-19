@@ -61,7 +61,7 @@ This research extends the work of **Yeoh et al. (2023)** — *“Zero Trust Cybe
 1. Abbas, H., & Ahmed, M. (2025). *A Survey of Security in Zero Trust Network Architectures.* **IEEE Access**, 13, 15502–15524.  
 2. Nymalm, A. (2025). *Zero Trust Threat Modeling: STRIDE-ZTA.* Master’s Thesis, Metropolia University of Applied Sciences.  
 3. Gartner Research. (2025). *Emerging Technologies Driving Zero Trust Maturity Across Industries.* *Gartner Insights White Paper.*  
-4. Ali, H., & Khan, A. (2022). *A Maturity Framework for Zero-Trust Security in Multi-Access Edge Computing.* **Security and Communication Networks**, 2022, 1–15. [https://doi.org/10.1155/2022/9826314](https://doi.org/10.1155/2022/9826314)  
+4. Ali, H., & Khan, A. (2022). *A Maturity Framework for Zero-Trust Security in Multi-Access Edge Computing.* **Security and Communication Networks**, 2022, 1–15.
 5. National Institute of Standards and Technology (NIST). (2024). *Cybersecurity Framework 2.0 – Incorporating Zero Trust Principles (NIST CSWP 2.9).* *U.S. Department of Commerce*, Gaithersburg, MD.  
 6. Cybersecurity and Infrastructure Security Agency (CISA). (2023). *Zero Trust Maturity Model v2.* *U.S. Department of Homeland Security.*  
 7. Microsoft Corporation. (2024). *AI and Zero Trust Roadmap: A Strategic Implementation Guide.* *Microsoft White Paper.*  
