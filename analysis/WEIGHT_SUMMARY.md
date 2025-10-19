@@ -1,9 +1,9 @@
 # Zero Trust Weight Derivation Summary
 
 ## Introduction
-This section summarizes the **weight derivation of the eight Zero Trust dimensions** based on a systematic review of ten research papers.  
-Frequencies of dimension mentions were normalized to a total of **1.0** to represent their relative importance in Zero Trust research.  
-These normalized values form the foundation of the **Zero Trust Readiness Index (ZTRI)** model, which measures an organization’s overall maturity through **weighted scoring**.
+This section tell about the **weight derivation of the eight Zero Trust dimensions** based on a systematic review of ten research papers.  
+Frequencies of dimension mentions were calculated and normalized to a total of **1.0** to shows their importance in Zero Trust research.  
+These normalized values form the **Zero Trust Readiness Index (ZTRI)** model, which measures an organization’s overall maturity through **weighted scoring**.
 
 ---
 
@@ -23,7 +23,7 @@ These normalized values form the foundation of the **Zero Trust Readiness Index 
 ---
 
 ## Analytical Interpretation
-From the gathered evidence, **Identity (0.217)** and **Data (0.176)** together make up nearly **40% of the total importance**, identifying them as the two main pillars of Zero Trust maturity.  
+From the gathered results, **Identity (0.217)** and **Data (0.176)** together make up nearly **40% of the total importance**, identifying them as the two main important pillars of Zero Trust maturity.  
 These dimensions frequently appear in high-severity contexts such as authentication, access control, and data protection.
 
 **Applications (0.146)** and **Networks (0.143)** closely follow, demonstrating the shift from perimeter-based security toward **context-aware, workload-centric protection**.  
