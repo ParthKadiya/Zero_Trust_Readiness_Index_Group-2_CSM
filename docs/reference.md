@@ -1,7 +1,5 @@
 # References
 
----
-
 Abbas, H., & Ahmed, M. (2025). A Survey of Security in Zero Trust Network Architectures. IEEE Access, 13, 15502–15524.
 Nymalm, A. (2025). Zero Trust Threat Modeling: STRIDE-ZTA. Master’s Thesis, Metropolia University of Applied Sciences.
 Gartner Research. (2025). Emerging Technologies Driving Zero Trust Maturity Across Industries. Gartner Insights White Paper.
