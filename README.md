@@ -10,7 +10,7 @@ This project converts qualitative results from existing literature into a quanti
 ---
 
 ## Research Objective
-The primary goal of this research is to establish a **measurable Zero Trust Readiness Index (ZTRI)** capable of quantifying the maturity of organizational Zero Trust initiatives.  
+The primary goal of this research is to find a **measurable Zero Trust Readiness Index (ZTRI)** capable of quantifying the maturity of organizational Zero Trust adoption.  
 It seeks to answer:
 - What are the most critical dimensions influencing Zero Trust adoption?
 - How can these qualitative factors be represented numerically to produce a readiness score?
@@ -21,7 +21,7 @@ It seeks to answer:
 This research applies a **Systematic Literature Review (SLR)** across ten selected academic and industry publications that address Zero Trust Architecture (ZTA), maturity models, and readiness assessment frameworks.
 
 **Key methodological steps:**
-1. **Systematic Review (SLR):** Identification and analysis of 10 peer-reviewed and authoritative sources on Zero Trust maturity and CSF frameworks.  
+1. **Systematic Review (SLR):** Identification and analysis of 10 Zero Trust maturity and CSF frameworks.  
 2. **Frequency-based Weighting:** Extraction of mentions and significance of each of the eight Zero Trust dimensions across all papers.  
 3. **Normalization:** Conversion of total frequency counts into proportional weights that sum to 1.0.  
 4. **Readiness Scoring:** Application of a 1–5 Likert scale (Non-existent → Optimized) to rate organizations, combined with weighted values to compute an overall readiness score.
@@ -45,8 +45,6 @@ This research extends the foundational work of **Yeoh et al. (2023)** — *“Ze
 - Introduces a **Zero Trust Readiness Index (ZTRI)** combining SLR-based weights with quantitative scoring.  
 - Translates theoretical maturity factors into **measurable organizational indicators**.  
 - Enables practitioners and researchers to compare readiness levels across industries using standardized metrics.  
-
-The ZTRI framework thus bridges the gap between **academic Zero Trust theory** and **practical enterprise assessment**.
 
 ---
 
