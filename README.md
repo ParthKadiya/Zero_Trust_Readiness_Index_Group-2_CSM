@@ -1,11 +1,11 @@
 # Developing a Zero Trust Readiness Index (ZTRI) to Measure Enterprise-wide Zero Trust Adoption
 
 ## Overview
-This repository presents the research and supporting data for the paper **“Developing a Zero Trust Readiness Index (ZTRI) to Measure Enterprise-wide Zero Trust Adoption.”**  
-The study introduces a structured, quantifiable framework to evaluate organizational readiness for Zero Trust implementation across eight core dimensions of cybersecurity maturity.
+This repositry shows the research for the paper **“Developing a Zero Trust Readiness Index (ZTRI) to Measure Enterprise-wide Zero Trust Adoption”.**
+The research gives a well-organized, numerical basis for evaluation of the cyber security maturity in eight core dimensions for an organization to become ready for the implementation of Zero Trust.
 
-The ZTRI model builds on insights from **ten academic and industry research papers** through a **Systematic Literature Review (SLR)** approach.  
-By transforming qualitative findings from prior works into a **quantitative weighted readiness index**, this project provides a reproducible and evidence-based method to assess how far an enterprise has progressed toward Zero Trust adoption.
+The ZTRI model is developed with the help of a Systematic Literature Review (SLR) of ten academic and industry research papers.
+This project converts qualitative results from existing literature into a quantitative weighted readiness index and presents an enterprise's progress towards Zero Trust adoption.
 
 ---
 
