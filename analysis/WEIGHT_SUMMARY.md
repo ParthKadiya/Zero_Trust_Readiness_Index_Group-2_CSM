@@ -23,13 +23,14 @@ These normalized values form the **Zero Trust Readiness Index (ZTRI)** model, wh
 ---
 
 ## Analytical Interpretation
-From the gathered results, **Identity (0.217)** and **Data (0.176)** together make up nearly **40% of the total importance**, identifying them as the two main important pillars of Zero Trust maturity.  
-These dimensions frequently appear in high-severity contexts such as authentication, access control, and data protection.
+From the results, **Identity (0.217)** and **Data (0.176)** together make up almost **40%** of the total importance.  
+This shows that they are the **two most important parts** of Zero Trust maturity. These areas often appear in serious topics like **authentication, access control, and data protection**.
 
-**Applications (0.146)** and **Networks (0.143)** closely follow, demonstrating the shift from perimeter-based security toward **context-aware, workload-centric protection**.  
-**Infrastructure (0.102)** underpins these layers as the architectural backbone and enforcement framework.
+**Applications (0.146)** and **Networks (0.143)** come next. They show how cybersecurity is moving away from old perimeter-based methods and toward **smarter, context-aware protection** that focuses on specific workloads and access needs.  
+**Infrastructure (0.102)** supports these layers as the main **technical base** that keeps everything connected and secure.
 
-Meanwhile, **Automation & Orchestration (0.044)**, though least frequent, are becoming increasingly important in newer frameworks such as **CISA ZTMM v2** and **NIST CSWP 2.0**, driving scalability and automated cyber resilience.
+**Automation & Orchestration (0.044)**, although mentioned the least, are becoming more important in **new frameworks** such as **CISA ZTMM v2** and **NIST CSWP 2.0**. They help make systems more **scalable, consistent, and self-managing**.
 
-The **total weight equals 1.0**, ensuring balanced proportional representation across all eight dimensions.  
-These results provide a validated baseline for computing **Weighted Readiness Scores** in the **ZTRI model**, supporting both academic evaluation and practical enterprise assessment.
+The total weight adds up to **1.0**, which means all eight dimensions are **fairly balanced**.  
+These findings give a **strong starting point** for calculating **Weighted Readiness Scores** in the **ZTRI model**, helping both researchers and organizations measure their Zero Trust maturity in a clear and practical way.
+
