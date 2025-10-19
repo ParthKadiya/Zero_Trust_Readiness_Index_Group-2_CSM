@@ -16,6 +16,6 @@
 
 **Kindervag, J. (2018).** *Forrester Zero Trust eXtended (ZTX) Ecosystem.* *Forrester Research.*  
 
-**National Institute of Standards and Technology (NIST). (2020).** *Special Publication 800-207: Zero Trust Architecture.* *U.S. Department of Commerce*, Gaithersburg, MD. [https://doi.org/10.6028/NIST.SP.800-207](https://doi.org/10.6028/NIST.SP.800-207)  
+**National Institute of Standards and Technology (NIST). (2020).** *Special Publication 800-207: Zero Trust Architecture.* *U.S. Department of Commerce*, Gaithersburg, MD.
 
-**Yeoh, W., Liu, M., Shore, M., & Jiang, F. (2023).** *Zero Trust Cybersecurity: Critical Success Factors and a Maturity Assessment Framework.* **Computers & Security**, 133, 103412. [https://doi.org/10.1016/j.cose.2023.103412](https://doi.org/10.1016/j.cose.2023.103412)  
+**Yeoh, W., Liu, M., Shore, M., & Jiang, F. (2023).** *Zero Trust Cybersecurity: Critical Success Factors and a Maturity Assessment Framework.* **Computers & Security**, 133, 103412. 
