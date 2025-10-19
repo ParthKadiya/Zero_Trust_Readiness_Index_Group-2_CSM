@@ -21,8 +21,8 @@ It seeks to answer:
 This research applies a **Systematic Literature Review (SLR)** across ten selected academic and industry publications that address Zero Trust Architecture (ZTA), maturity models, and readiness assessment frameworks.
 
 **Key methodological steps:**
-1. **Systematic Review (SLR):** Identification and analysis of 10 Zero Trust maturity and CSF frameworks.  
-2. **Frequency-based Weighting:** Extraction of mentions and significance of each of the eight Zero Trust dimensions across all papers.  
+1. **Systematic Review (SLR):** Identifying and analyzing of 10 Zero Trust maturity and CSF frameworks.  
+2. **Frequency-based Weighting:** Extraction of mentions the eight Zero Trust dimensions from all papers.  
 3. **Normalization:** Conversion of total frequency counts into proportional weights that sum to 1.0.  
 4. **Readiness Scoring:** Application of a 1–5 Likert scale (Non-existent → Optimized) to rate organizations, combined with weighted values to compute an overall readiness score.
 
@@ -39,7 +39,7 @@ This research applies a **Systematic Literature Review (SLR)** across ten select
 ---
 
 ## Novelty and Contribution
-This research extends the foundational work of **Yeoh et al. (2023)** — *“Zero Trust Cybersecurity: Critical Success Factors and a Maturity Assessment Framework”* — by transforming its **qualitative Delphi-based model** into a **quantitative scoring matrix**.
+This research extends the work of **Yeoh et al. (2023)** — *“Zero Trust Cybersecurity: Critical Success Factors and a Maturity Assessment Framework”* — by converting its **qualitative Delphi-based model** into a **quantitative scoring matrix**.
 
 **Novel Contributions:**
 - Introduces a **Zero Trust Readiness Index (ZTRI)** combining SLR-based weights with quantitative scoring.  
@@ -49,8 +49,8 @@ This research extends the foundational work of **Yeoh et al. (2023)** — *“Ze
 ---
 
 ## How to Use
-1. Open the included Excel file: `ZTRI_Scoring_Calculation.xlsx`.  
-2. For each of the eight dimensions, assign a readiness score from **1 (Non-existent)** to **5 (Optimized)**.  
+1. Open the Excel file: `ZTRI_Scoring_Calculation.xlsx`.  
+2. For each of the eight dimensions, rate a readiness score from **1 (Non-existent)** to **5 (Optimized)**.  
 3. The weighted score and overall readiness index will be calculated automatically.  
 4. The resulting **ZTRI value (0–5)** represents the organization’s overall Zero Trust maturity level.
 
