@@ -1,5 +1,9 @@
 # Developing a Zero Trust Readiness Index (ZTRI) to Measure Enterprise-wide Zero Trust Adoption
 
+Loom video of our work
+1. Parth - https://www.loom.com/share/94eba233688b428694e4acb93ba6ebe2?sid=7e3a93c3-c78c-4f5d-9592-1df87bb694f1
+2. Jenish - https://www.loom.com/share/3d8219219b83478e85cb6cc90ccd2dc8?sid=82beeabe-1eee-455e-b2e8-8176240c047d
+
 ## Overview
 This repositry shows the research for the paper **“Developing a Zero Trust Readiness Index (ZTRI) to Measure Enterprise-wide Zero Trust Adoption”.**
 The research gives a well-organized, numerical basis for evaluation of the cyber security maturity in eight core dimensions for an organization to become ready for the implementation of Zero Trust.
