@@ -75,12 +75,12 @@ In the scoring sheet **`/excel-model/ZTRI_Scoring_Model_v1.xlsx`**:
 
 ```excel
 =IFS(
-    E2<1,"Non-Existent",
-    E2<2,"Initial",
-    E2<3,"Basic",
-    E2<4,"Intermediate",
-    E2<4.5,"Advanced",
-    E2<=5,"Optimised"
+    D11<1,"Non-Existent",
+    D11<2,"Initial",
+    D11<3,"Basic",
+    D11<4,"Intermediate",
+    D11<4.5,"Advanced",
+    D11<=5,"Optimised"
 )
 ```
 
