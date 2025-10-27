@@ -27,9 +27,7 @@ Only **Critical**, **High**, and **Medium** mentions were counted for frequency.
 ## Step 2: Normalization Formula
 Each dimension’s frequency was divided by the **total frequency (630)** to convert it into a normalized weight value.
 
-\[
-\text{Weight} = \frac{\text{Dimension Frequency}}{630}
-\]
+**Weight = Dimension_Frequency / 630**
 
 ---
 
