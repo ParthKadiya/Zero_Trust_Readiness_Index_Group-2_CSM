@@ -56,6 +56,17 @@ The overall readiness score maps to one of six readiness categories defined in `
 | 4.00–4.49 | Advanced |
 | 4.50–5.00 | Optimised |
 
+## Interpretation
+
+| Category | Description |
+|-----------|-------------|
+| Non-Existent | Zero Trust adoption not started. |
+| Initial | Early awareness and fragmented policies. |
+| Basic | Foundation stage with partial implementation. |
+| Intermediate | Structured adoption with defined controls. |
+| Advanced | Strong enterprise-wide enforcement. |
+| Optimised | Fully mature Zero Trust ecosystem. |
+
 ---
 
 ## ✅ Output
