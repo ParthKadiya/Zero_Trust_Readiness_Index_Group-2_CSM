@@ -1,74 +1,141 @@
-# Developing a Zero Trust Readiness Index (ZTRI) to Measure Enterprise-wide Zero Trust Adoption
-
-Loom video of our work
-1. Parth - https://www.loom.com/share/94eba233688b428694e4acb93ba6ebe2?sid=7e3a93c3-c78c-4f5d-9592-1df87bb694f1
-2. Jenish - https://www.loom.com/share/3d8219219b83478e85cb6cc90ccd2dc8?sid=82beeabe-1eee-455e-b2e8-8176240c047d
-
-## Overview
-This repositry shows the research for the paper **“Developing a Zero Trust Readiness Index (ZTRI) to Measure Enterprise-wide Zero Trust Adoption”.**
-The research gives a well-organized, numerical basis for evaluation of the cyber security maturity in eight core dimensions for an organization to become ready for the implementation of Zero Trust.
-
-The ZTRI model is developed with the help of a Systematic Literature Review (SLR) of ten academic and industry research papers.
-This project converts qualitative results from existing literature into a quantitative weighted readiness index and presents an enterprise's progress towards Zero Trust adoption.
+# Developing a Zero Trust Readiness Index (ZTRI)
+**A framework to measure enterprise-wide Zero Trust adoption**
 
 ---
 
-## Research Objective
-The primary goal of this research is to find a **measurable Zero Trust Readiness Index (ZTRI)** capable of quantifying the maturity of organizational Zero Trust adoption.  
-It seeks to answer:
-- What are the most critical dimensions influencing Zero Trust adoption?
-- How can these qualitative factors be represented numerically to produce a readiness score?
+## Project Overview
+This repository presents a complete implementation of the **Zero Trust Readiness Index (ZTRI)** —  
+a systematic, data-driven method to evaluate how prepared an organization is to adopt or enhance a **Zero Trust Architecture (ZTA)**.
+
+The project combines **academic research** and **practical scoring tools** to compute a readiness score (0–5)  
+across **8 key Zero Trust dimensions**, using a **Systematic Literature Review (SLR)** approach.
 
 ---
 
-## Methodology
-This research applies a **Systematic Literature Review (SLR)** across ten selected academic and industry publications that address Zero Trust Architecture (ZTA), maturity models, and readiness assessment frameworks.
+## Research Summary
 
-**Key methodological steps:**
-1. **Systematic Review (SLR):** Identifying and analyzing of 10 Zero Trust maturity and CSF frameworks.  
-2. **Frequency-based Weighting:** Extraction of mentions the eight Zero Trust dimensions from all papers.  
-3. **Normalization:** Conversion of total frequency counts into proportional weights that sum to 1.0.  
-4. **Readiness Scoring:** Application of a 1–5 Likert scale (Non-existent → Optimized) to rate organizations, combined with weighted values to compute an overall readiness score.
+### Objective
+To design a **Zero Trust Readiness Index (ZTRI)** that:
+- Quantifies readiness using weighted maturity scores.
+- Identifies organizational strengths and gaps across key Zero Trust domains.
+- Provides a consistent measurement method aligned with modern ZTA principles.
 
-**Eight Zero Trust Dimensions:**
-- Identity  
-- Endpoints  
-- Applications  
-- Infrastructure  
-- Data  
-- Networks  
-- Visibility & Analytics  
-- Automation & Orchestration  
+### Methodology
+1. Conducted a **Systematic Literature Review (SLR)** of 10 Zero Trust–related research papers.
+2. Extracted **8 common Zero Trust dimensions**:
+   - Identity  
+   - Endpoints  
+   - Applications  
+   - Infrastructure  
+   - Data  
+   - Networks  
+   - Visibility & Analytics  
+   - Automation & Orchestration
+3. Counted dimension frequencies (Critical, High, Medium) across all papers.
+4. Normalized frequency totals to produce **weighted importance values (sum = 1.00)**.
+5. Created a **scoring model (0–5)** and an Excel tool to automate readiness evaluation.
 
 ---
 
-## Novelty and Contribution
-This research extends the work of **Yeoh et al. (2023)** — *“Zero Trust Cybersecurity: Critical Success Factors and a Maturity Assessment Framework”* — by converting its **qualitative Delphi-based model** into a **quantitative scoring matrix**.
+## Scoring Model
 
-**Novel Contributions:**
-- Introduces a **Zero Trust Readiness Index (ZTRI)** combining SLR-based weights with quantitative scoring.  
-- Translates theoretical maturity factors into **measurable organizational indicators**.  
-- Enables practitioners and researchers to compare readiness levels across industries using standardized metrics.  
+| Score | Category | Description |
+|:------:|-----------|-------------|
+| 0 | Non-Existent | No implementation or awareness. |
+| 1 | Initial | Early-stage, ad-hoc efforts. |
+| 2 | Basic | Defined goals but inconsistent practices. |
+| 3 | Intermediate | Structured and measurable controls. |
+| 4 | Advanced | Integrated Zero Trust adoption. |
+| 5 | Optimised | Fully automated and monitored ZT ecosystem. |
+
+### Formula
+```
+Weighted Score = Dimension Weight × Dimension Score
+Total Readiness = Σ (Weighted Scores)
+```
+
+The resulting **Total Readiness Score (0–5)** is automatically classified into the readiness category.
+
+---
+
+## Repository Structure
+
+```
+├── 📁 data/
+│   ├── 01_Paper_Dimension_Frequency_Table.csv        → Raw data from 10 papers
+│   └── 02_ZTRI_Weights_Normalization.csv             → Normalized weights (sum ≈ 1.00)
+│
+├── 📁 docs/
+│   ├── 01_Weight_Calculation.md                   → Show how frequencies were normalized
+│   ├── 02_Readiness_Scoring_Logic.md              → Scoring formula and readiness mapping
+│   └── 03_Findings_and_Interpretation.md          → Key insights and frequency interpretation
+│
+├── 📁 analysis/
+│   └── ztri_formula_explanation.md                → Calculation logic & formulas
+│
+├── 📁 excel-model/
+│   └── ZTRI_Scoring_Model_v1.xlsx                 → Interactive Excel scoring tool
+│
+├── 📁 visuals/
+│   ├── dimension_weights_chart.png                → Weights visualization
+│   ├── readiness_scale.png                        → Readiness scale (0–5)
+│   └── ztri_architecture.png                      → Architecture overview
+│
+└── README.md                                      → You are here
+```
 
 ---
 
 ## How to Use
-1. Open the Excel file: `ZTRI_Scoring_Calculation.xlsx`.  
-2. For each of the eight dimensions, rate a readiness score from **1 (Non-existent)** to **5 (Optimized)**.  
-3. The weighted score and overall readiness index will be calculated automatically.  
-4. The resulting **ZTRI value (0–5)** represents the organization’s overall Zero Trust maturity level.
+
+1. **Review the Docs** →  
+   Understand the scoring logic (`/docs/02_Readiness_Scoring_Logic.md`) and findings.
+
+2. **Input Organization Scores** →  
+   Open the Excel file:
+   ```
+   /excel-model/ZTRI_Scoring_Model_v1.xlsx
+   ```
+   Enter a value (0–5) for each dimension.  
+   The sheet automatically calculates:
+   - Weighted Score per dimension  
+   - Overall Readiness Score  
+   - Readiness Category  
+
+3. **Visualize Results** →  
+   Explore `/visuals/` for charts and flow diagrams.
 
 ---
 
-## References
+## Example Output
 
-1. Abbas, H., & Ahmed, M. (2025). *A Survey of Security in Zero Trust Network Architectures.* **IEEE Access**, 13, 15502–15524.  
-2. Nymalm, A. (2025). *Zero Trust Threat Modeling: STRIDE-ZTA.* Master’s Thesis, Metropolia University of Applied Sciences.  
-3. Gartner Research. (2025). *Emerging Technologies Driving Zero Trust Maturity Across Industries.* *Gartner Insights White Paper.*  
-4. Ali, H., & Khan, A. (2022). *A Maturity Framework for Zero-Trust Security in Multi-Access Edge Computing.* **Security and Communication Networks**, 2022, 1–15.
-5. National Institute of Standards and Technology (NIST). (2024). *Cybersecurity Framework 2.0 – Incorporating Zero Trust Principles (NIST CSWP 2.9).* *U.S. Department of Commerce*, Gaithersburg, MD.  
-6. Cybersecurity and Infrastructure Security Agency (CISA). (2023). *Zero Trust Maturity Model v2.* *U.S. Department of Homeland Security.*  
-7. Microsoft Corporation. (2024). *AI and Zero Trust Roadmap: A Strategic Implementation Guide.* *Microsoft White Paper.*  
-8. Kindervag, J. (2018). *Forrester Zero Trust eXtended (ZTX) Ecosystem.* *Forrester Research.*  
-9. National Institute of Standards and Technology (NIST). (2020). *Special Publication 800-207: Zero Trust Architecture.* *U.S. Department of Commerce*, Gaithersburg, MD.
-10. Yeoh, W., Liu, M., Shore, M., & Jiang, F. (2023). *Zero Trust Cybersecurity: Critical Success Factors and a Maturity Assessment Framework.* **Computers & Security**, 133, 103412.  
+| Dimension | Weight | Score | Weighted Score |
+|------------|---------|-------|----------------|
+| Identity | 0.22 | 4 | 0.88 |
+| Data | 0.18 | 3 | 0.54 |
+| Applications | 0.15 | 3 | 0.45 |
+| Endpoints | 0.10 | 2 | 0.20 |
+| Infrastructure | 0.10 | 3 | 0.30 |
+| Networks | 0.14 | 4 | 0.56 |
+| Visibility & Analytics | 0.07 | 2 | 0.14 |
+| Automation & Orchestration | 0.04 | 1 | 0.04 |
+| **Total Readiness Score** | | | **3.11 / 5 (Intermediate)** |
+
+---
+
+## Visual Overview
+
+<p align="center">
+  <img src="visuals/dimension_weights_chart.png" width="500"><br>
+  <em>Normalized Dimension Weights (Σ = 1.00)</em>
+</p>
+
+---
+
+## Tools & Techniques
+- **Systematic Literature Review (SLR)**  
+- **Excel-based computation** with IFS logic   
+- **Normalization formula:**  
+  ```
+  Weight = Dimension Frequency / Total Frequency
+  ```
