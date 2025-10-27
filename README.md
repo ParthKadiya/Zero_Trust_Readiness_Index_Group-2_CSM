@@ -7,7 +7,7 @@
 | Member | Loom Link |
 |:-------|:-----------|
 | **Parth** | [Watch Here](https://www.loom.com/share/af1d304fdf574925b61a85a44b115258) |
-| **Jenish** | [Watch Here](https://www.loom.com/share/3d8219219b83478e85cb6cc90ccd2dc8?sid=82beeabe-1eee-455e-b2e8-8176240c047d) |
+| **Jenish** | [Watch Here](https://www.loom.com/share/69b10800efa84642bb3a9e3217b5ba56) |
 
 ---
 
