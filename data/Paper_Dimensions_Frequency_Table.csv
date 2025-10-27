@@ -1,0 +1,81 @@
+Paper ID,Title,Year,Dimension,Frequency
+P1,A Survey of Security in Zero Trust Network Architectures,2025,Identity,10
+P1,A Survey of Security in Zero Trust Network Architectures,2025,Endpoints,6
+P1,A Survey of Security in Zero Trust Network Architectures,2025,Applications,5
+P1,A Survey of Security in Zero Trust Network Architectures,2025,Infrastructure,4
+P1,A Survey of Security in Zero Trust Network Architectures,2025,Data,6
+P1,A Survey of Security in Zero Trust Network Architectures,2025,Networks,5
+P1,A Survey of Security in Zero Trust Network Architectures,2025,Visibility & Analytics,3
+P1,A Survey of Security in Zero Trust Network Architectures,2025,Automation & Orchestration,1
+P2,Zero Trust Threat Modeling: STRIDE-ZTA,2025,Identity,14
+P2,Zero Trust Threat Modeling: STRIDE-ZTA,2025,Endpoints,0
+P2,Zero Trust Threat Modeling: STRIDE-ZTA,2025,Applications,19
+P2,Zero Trust Threat Modeling: STRIDE-ZTA,2025,Infrastructure,5
+P2,Zero Trust Threat Modeling: STRIDE-ZTA,2025,Data,11
+P2,Zero Trust Threat Modeling: STRIDE-ZTA,2025,Networks,7
+P2,Zero Trust Threat Modeling: STRIDE-ZTA,2025,Visibility & Analytics,2
+P2,Zero Trust Threat Modeling: STRIDE-ZTA,2025,Automation & Orchestration,1
+P3,Emerging Technologies Driving Zero Trust Maturity Across Industries,2025,Identity,13
+P3,Emerging Technologies Driving Zero Trust Maturity Across Industries,2025,Endpoints,7
+P3,Emerging Technologies Driving Zero Trust Maturity Across Industries,2025,Applications,9
+P3,Emerging Technologies Driving Zero Trust Maturity Across Industries,2025,Infrastructure,6
+P3,Emerging Technologies Driving Zero Trust Maturity Across Industries,2025,Data,11
+P3,Emerging Technologies Driving Zero Trust Maturity Across Industries,2025,Networks,8
+P3,Emerging Technologies Driving Zero Trust Maturity Across Industries,2025,Visibility & Analytics,4
+P3,Emerging Technologies Driving Zero Trust Maturity Across Industries,2025,Automation & Orchestration,2
+P4,A Maturity Framework for Zero-Trust Security in Multi-Access Edge Computing,2022,Identity,9
+P4,A Maturity Framework for Zero-Trust Security in Multi-Access Edge Computing,2022,Endpoints,5
+P4,A Maturity Framework for Zero-Trust Security in Multi-Access Edge Computing,2022,Applications,6
+P4,A Maturity Framework for Zero-Trust Security in Multi-Access Edge Computing,2022,Infrastructure,8
+P4,A Maturity Framework for Zero-Trust Security in Multi-Access Edge Computing,2022,Data,10
+P4,A Maturity Framework for Zero-Trust Security in Multi-Access Edge Computing,2022,Networks,12
+P4,A Maturity Framework for Zero-Trust Security in Multi-Access Edge Computing,2022,Visibility & Analytics,3
+P4,A Maturity Framework for Zero-Trust Security in Multi-Access Edge Computing,2022,Automation & Orchestration,2
+P5,NIST CSWP 2.9 – Cybersecurity Framework 2.0 Zero Trust Guidance,2024,Identity,15
+P5,NIST CSWP 2.9 – Cybersecurity Framework 2.0 Zero Trust Guidance,2024,Endpoints,6
+P5,NIST CSWP 2.9 – Cybersecurity Framework 2.0 Zero Trust Guidance,2024,Applications,8
+P5,NIST CSWP 2.9 – Cybersecurity Framework 2.0 Zero Trust Guidance,2024,Infrastructure,7
+P5,NIST CSWP 2.9 – Cybersecurity Framework 2.0 Zero Trust Guidance,2024,Data,12
+P5,NIST CSWP 2.9 – Cybersecurity Framework 2.0 Zero Trust Guidance,2024,Networks,10
+P5,NIST CSWP 2.9 – Cybersecurity Framework 2.0 Zero Trust Guidance,2024,Visibility & Analytics,5
+P5,NIST CSWP 2.9 – Cybersecurity Framework 2.0 Zero Trust Guidance,2024,Automation & Orchestration,3
+P6,Zero Trust Maturity Model v2.0 (CISA),2023,Identity,18
+P6,Zero Trust Maturity Model v2.0 (CISA),2023,Endpoints,9
+P6,Zero Trust Maturity Model v2.0 (CISA),2023,Applications,11
+P6,Zero Trust Maturity Model v2.0 (CISA),2023,Infrastructure,7
+P6,Zero Trust Maturity Model v2.0 (CISA),2023,Data,14
+P6,Zero Trust Maturity Model v2.0 (CISA),2023,Networks,10
+P6,Zero Trust Maturity Model v2.0 (CISA),2023,Visibility & Analytics,6
+P6,Zero Trust Maturity Model v2.0 (CISA),2023,Automation & Orchestration,4
+P7,AI and Zero Trust Roadmap (Microsoft),2024,Identity,16
+P7,AI and Zero Trust Roadmap (Microsoft),2024,Endpoints,7
+P7,AI and Zero Trust Roadmap (Microsoft),2024,Applications,9
+P7,AI and Zero Trust Roadmap (Microsoft),2024,Infrastructure,5
+P7,AI and Zero Trust Roadmap (Microsoft),2024,Data,12
+P7,AI and Zero Trust Roadmap (Microsoft),2024,Networks,8
+P7,AI and Zero Trust Roadmap (Microsoft),2024,Visibility & Analytics,5
+P7,AI and Zero Trust Roadmap (Microsoft),2024,Automation & Orchestration,3
+P8,Forrester ZTX Ecosystem,2018,Identity,11
+P8,Forrester ZTX Ecosystem,2018,Endpoints,6
+P8,Forrester ZTX Ecosystem,2018,Applications,8
+P8,Forrester ZTX Ecosystem,2018,Infrastructure,7
+P8,Forrester ZTX Ecosystem,2018,Data,13
+P8,Forrester ZTX Ecosystem,2018,Networks,9
+P8,Forrester ZTX Ecosystem,2018,Visibility & Analytics,5
+P8,Forrester ZTX Ecosystem,2018,Automation & Orchestration,3
+P9,NIST SP 800-207: Zero Trust Architecture,2020,Identity,14
+P9,NIST SP 800-207: Zero Trust Architecture,2020,Endpoints,8
+P9,NIST SP 800-207: Zero Trust Architecture,2020,Applications,7
+P9,NIST SP 800-207: Zero Trust Architecture,2020,Infrastructure,9
+P9,NIST SP 800-207: Zero Trust Architecture,2020,Data,10
+P9,NIST SP 800-207: Zero Trust Architecture,2020,Networks,12
+P9,NIST SP 800-207: Zero Trust Architecture,2020,Visibility & Analytics,6
+P9,NIST SP 800-207: Zero Trust Architecture,2020,Automation & Orchestration,4
+P10,Zero Trust Cybersecurity: Critical Success Factors and a Maturity Assessment Framework,2023,Identity,17
+P10,Zero Trust Cybersecurity: Critical Success Factors and a Maturity Assessment Framework,2023,Endpoints,8
+P10,Zero Trust Cybersecurity: Critical Success Factors and a Maturity Assessment Framework,2023,Applications,10
+P10,Zero Trust Cybersecurity: Critical Success Factors and a Maturity Assessment Framework,2023,Infrastructure,6
+P10,Zero Trust Cybersecurity: Critical Success Factors and a Maturity Assessment Framework,2023,Data,12
+P10,Zero Trust Cybersecurity: Critical Success Factors and a Maturity Assessment Framework,2023,Networks,9
+P10,Zero Trust Cybersecurity: Critical Success Factors and a Maturity Assessment Framework,2023,Visibility & Analytics,7
+P10,Zero Trust Cybersecurity: Critical Success Factors and a Maturity Assessment Framework,2023,Automation & Orchestration,5
