@@ -1,4 +1,4 @@
-# ⚙️ ZTRI Formula Explanation
+# ZTRI Formula Explanation
 
 ## Purpose
 This file documents the calculation logic behind the **Zero Trust Readiness Index (ZTRI)** to ensure transparency and reproducibility.
