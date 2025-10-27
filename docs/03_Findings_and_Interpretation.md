@@ -1,14 +1,14 @@
 # Findings and Interpretation
 
 ## Purpose
-This section interprets the overall Zero Trust Readiness Score and provides insight into what the score means for an organization’s current security posture.  
-The goal is to translate numerical results into actionable guidance, helping identify which Zero Trust dimensions are strong, which need improvement, and what steps to take next.
+This section tells the overall Zero Trust Readiness Score and provides view into what the score means for an organization’s current security posture.  
+The goal is to convert numerical results into actionable guidance, helping identify which Zero Trust dimensions are strong, which need improvement, and what steps to take next.
 
 ---
 
 ## Score Interpretation
 
-The final **Zero Trust Readiness Score** (0–5) reflects how well an organization’s people, processes, and technologies align with the Zero Trust framework.
+The final **Zero Trust Readiness Score** (0–5) tells how well an organization’s people, processes, and technologies align with the Zero Trust framework.
 
 | Score Range | Readiness Category | Interpretation |
 |--------------|--------------------|----------------|
@@ -38,9 +38,9 @@ The final **Zero Trust Readiness Score** (0–5) reflects how well an organizati
 
 ## Interpreting the Results
 
-- **High Weighted Score:** Indicates mature implementation aligned with Zero Trust principles.  
-- **Low Weighted Score:** Represents areas where adoption is limited or inconsistent.  
-- **High-Weight + Low-Score Dimensions:** Should be treated as **priority improvement areas**, since they heavily impact the overall readiness score.
+- **High Weighted Score:** This shows mature implementation aligned with Zero Trust principles.  
+- **Low Weighted Score:** This shows areas where adoption is limited or inconsistent.  
+- **High-Weight + Low-Score Dimensions:** This Should be treated as **priority improvement areas**, since they largely impact the overall readiness score.
 
 ---
 
@@ -58,8 +58,8 @@ The final **Zero Trust Readiness Score** (0–5) reflects how well an organizati
 
 ## Summary
 
-- The **ZTRI Score** converts qualitative Zero Trust maturity into a quantifiable readiness measure (0–5).  
-- Each dimension contributes proportionally based on its academic weight.  
+- The **ZTRI Score** transform qualitative Zero Trust maturity into a quantifiable readiness measure (0–5).  
+- Each dimension contributes based on its academic weight.  
 - The final score helps organizations benchmark their Zero Trust posture and prioritize investments.  
 - Continuous reassessment is recommended as Zero Trust implementation evolves.
 
