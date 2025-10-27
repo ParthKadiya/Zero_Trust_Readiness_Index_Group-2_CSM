@@ -92,6 +92,6 @@ In the scoring sheet **`/excel-model/ZTRI_Scoring_Model_v1.xlsx`**:
 
 ---
 
-## Used By
+**Used In:** 
 
 - `/excel-model/ZTRI_Scoring_Model_v1.xlsx`
