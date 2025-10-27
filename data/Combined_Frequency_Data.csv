@@ -1,0 +1,81 @@
+Paper_ID,Dimension,Frequency,Weight
+P1,Identity,10,0.22
+P1,Endpoints,6,0.10
+P1,Applications,5,0.15
+P1,Infrastructure,4,0.10
+P1,Data,6,0.18
+P1,Networks,5,0.14
+P1,Visibility & Analytics,3,0.07
+P1,Automation & Orchestration,1,0.04
+P2,Identity,14,0.22
+P2,Endpoints,0,0.10
+P2,Applications,19,0.15
+P2,Infrastructure,5,0.10
+P2,Data,11,0.18
+P2,Networks,7,0.14
+P2,Visibility & Analytics,2,0.07
+P2,Automation & Orchestration,1,0.04
+P3,Identity,13,0.22
+P3,Endpoints,7,0.10
+P3,Applications,9,0.15
+P3,Infrastructure,6,0.10
+P3,Data,11,0.18
+P3,Networks,8,0.14
+P3,Visibility & Analytics,4,0.07
+P3,Automation & Orchestration,2,0.04
+P4,Identity,9,0.22
+P4,Endpoints,5,0.10
+P4,Applications,6,0.15
+P4,Infrastructure,8,0.10
+P4,Data,10,0.18
+P4,Networks,12,0.14
+P4,Visibility & Analytics,3,0.07
+P4,Automation & Orchestration,2,0.04
+P5,Identity,15,0.22
+P5,Endpoints,6,0.10
+P5,Applications,8,0.15
+P5,Infrastructure,7,0.10
+P5,Data,12,0.18
+P5,Networks,10,0.14
+P5,Visibility & Analytics,5,0.07
+P5,Automation & Orchestration,3,0.04
+P6,Identity,18,0.22
+P6,Endpoints,9,0.10
+P6,Applications,11,0.15
+P6,Infrastructure,7,0.10
+P6,Data,14,0.18
+P6,Networks,10,0.14
+P6,Visibility & Analytics,6,0.07
+P6,Automation & Orchestration,4,0.04
+P7,Identity,16,0.22
+P7,Endpoints,7,0.10
+P7,Applications,9,0.15
+P7,Infrastructure,5,0.10
+P7,Data,12,0.18
+P7,Networks,8,0.14
+P7,Visibility & Analytics,5,0.07
+P7,Automation & Orchestration,3,0.04
+P8,Identity,11,0.22
+P8,Endpoints,6,0.10
+P8,Applications,8,0.15
+P8,Infrastructure,7,0.10
+P8,Data,13,0.18
+P8,Networks,9,0.14
+P8,Visibility & Analytics,5,0.07
+P8,Automation & Orchestration,3,0.04
+P9,Identity,14,0.22
+P9,Endpoints,8,0.10
+P9,Applications,7,0.15
+P9,Infrastructure,9,0.10
+P9,Data,10,0.18
+P9,Networks,12,0.14
+P9,Visibility & Analytics,6,0.07
+P9,Automation & Orchestration,4,0.04
+P10,Identity,17,0.22
+P10,Endpoints,8,0.10
+P10,Applications,10,0.15
+P10,Infrastructure,6,0.10
+P10,Data,12,0.18
+P10,Networks,9,0.14
+P10,Visibility & Analytics,7,0.07
+P10,Automation & Orchestration,5,0.04
