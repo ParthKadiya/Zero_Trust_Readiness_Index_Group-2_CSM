@@ -5,7 +5,7 @@ The goal of this section is to calculate the **normalized weights** for each of 
 
 ---
 
-## 📊 Step 1: Frequency Data Collection
+## Step 1: Frequency Data Collection
 A total of **10 Zero Trust–related research papers** were reviewed using the Systematic Literature Review (SLR) approach.  
 Each paper was analyzed for the occurrence of eight common Zero Trust dimensions.  
 Only **Critical**, **High**, and **Medium** mentions were counted for frequency.
