@@ -97,6 +97,19 @@ The resulting **Total Readiness Score (0–5)** is automatically classified into
 1. **Review the Docs** →  
    Understand the scoring logic (`/docs/02_Readiness_Scoring_Logic.md`) and findings.
 
+2. **Input Organization Scores** →  
+   Open the Excel file:
+   ```
+   /excel-model/ZTRI_Scoring_Model_v1.xlsx
+   ```
+   Enter a value (0–5) for each dimension.  
+   The sheet automatically calculates:
+   - Weighted Score per dimension  
+   - Overall Readiness Score  
+   - Readiness Category  
+
+3. **Visualize Results** →  
+   Explore `/visuals/` for charts and flow diagrams.
 
 
 ---
