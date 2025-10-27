@@ -1,14 +1,14 @@
 # Weight Calculation for Zero Trust Readiness Index (ZTRI)
 
 ## Objective
-The goal of this section is to calculate the **normalized weights** for each of the eight Zero Trust dimensions based on their frequency across 10 reviewed research papers. These weights represent the **relative importance** of each dimension in determining overall Zero Trust readiness.
+The goal of this file is to calculate the **normalized weights** for each of the eight Zero Trust dimensions based on their frequency across 10 reviewed research papers. These weights shows the **relative importance** of each dimension in calculating overall Zero Trust readiness.
 
 ---
 
 ## Step 1: Frequency Data Collection
 A total of **10 Zero Trust–related research papers** were reviewed using the Systematic Literature Review (SLR) approach.  
-Each paper was analyzed for the occurrence of eight common Zero Trust dimensions.  
-Only **Critical**, **High**, and **Medium** mentions were counted for frequency.
+Each paper was analyzed for the eight common Zero Trust dimensions.  
+Only **Critical**, **High**, and **Medium** mentions were counted as frequency.
 
 | Dimension | Frequency |
 |------------|------------|
@@ -25,14 +25,13 @@ Only **Critical**, **High**, and **Medium** mentions were counted for frequency.
 ---
 
 ## Step 2: Normalization Formula
-Each dimension’s frequency was divided by the **total frequency (630)** to convert it into a normalized weight value.
+Each dimension’s frequency was divided by the **total frequency (630)** so it can be converted into a normalized weight value.
 
 **Weight = Dimension_Frequency / 630**
 
 ---
 
 ## Step 3: Calculated Normalized Weights
-Weights were rounded to **two decimal places** for clarity and consistency.
 
 | Dimension | Frequency | Weight |
 |------------|------------|--------|
@@ -49,14 +48,14 @@ Weights were rounded to **two decimal places** for clarity and consistency.
 ---
 
 ## Step 4: Interpretation
-- The **Identity** and **Data** dimensions carry the **highest weight**, indicating that identity management and data protection are the most emphasized components of Zero Trust across academic literature.  
-- **Automation & Orchestration** and **Visibility & Analytics** received lower weights, implying that while they are essential, they are less frequently highlighted as core readiness factors in existing research.  
+- The **Identity** and **Data** dimensions have the **highest weight**, indicating that identity management and data protection are the most valuable components of Zero Trust across academic literature.  
+- **Automation & Orchestration** and **Visibility & Analytics** have lower weights. They are less frequently marked as core readiness factors in existing research.  
 - The final weights sum to approximately **1.00**, confirming correct normalization.
 
 ---
 
 ## Summary
-The normalized weights derived here serve as the foundation for the **ZTRI Scoring Model**, where each dimension’s score (0–5) is multiplied by its respective weight to compute the overall readiness score.
+The normalized weights showed here serve as the foundation for the **ZTRI Scoring Model**, where each dimension’s score (0–5) is multiplied by its respective weight to calculate the overall readiness score.
 
 ---
 
