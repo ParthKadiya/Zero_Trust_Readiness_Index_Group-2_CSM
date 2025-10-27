@@ -60,7 +60,7 @@ The normalized weights derived here serve as the foundation for the **ZTRI Scori
 
 ---
 
-✅ **Output Used In:**  
+**Output Used In:**  
 - `/excel-model/ZTRI_Scoring_Model_v1.xlsx`  
 - `/docs/02_Readiness_Scoring_Logic.md`
 
