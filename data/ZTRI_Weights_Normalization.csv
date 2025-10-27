@@ -1,0 +1,10 @@
+Dimension,Frequency,Normalized_Weight
+Identity,137,0.22
+Endpoints,62,0.10
+Applications,92,0.15
+Infrastructure,64,0.10
+Data,111,0.18
+Networks,90,0.14
+Visibility & Analytics,46,0.07
+Automation & Orchestration,28,0.04
+Total,630,1.00
