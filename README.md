@@ -94,6 +94,9 @@ The resulting **Total Readiness Score (0–5)** is automatically classified into
 
 ## How to Use
 
+1. **Review the Docs** →  
+   Understand the scoring logic (`/docs/02_Readiness_Scoring_Logic.md`) and findings.
+
 
 
 ---
