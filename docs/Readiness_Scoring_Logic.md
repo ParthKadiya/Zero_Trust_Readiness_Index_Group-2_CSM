@@ -24,12 +24,11 @@ Each Zero Trust dimension is scored between **0** and **5** based on the organiz
 
 Each dimension’s contribution to readiness is calculated as:
 
-Weighted Score = Dimension Weight × Dimension Score
+**Weighted Score = Dimension Weight × Dimension Score**
 
 All eight weighted scores are then summed to produce the **Total Readiness Score**:
 
-Total Readiness Score = Σ (Weight × Score)
-
+**Total Readiness Score = Σ (Weight × Score)**
 
 The resulting value will always fall between **0.00** and **5.00**.
 
@@ -85,16 +84,14 @@ In the scoring sheet **`/excel-model/ZTRI_Scoring_Model_v1.xlsx`**:
 )
 ```
 
-**Summary**
+## Summary
 
-Input: 0–5 maturity score per dimension
+**Input:** 0–5 maturity score per dimension  
+**Process:** Multiply by normalized weight  
+**Output:** Overall readiness score (0–5) and automatic readiness category  
 
-Process: Multiply by normalized weight
+---
 
-Output: Overall readiness score (0–5) and automatic readiness category 
+## Used By
 
-**Used By**
-
-/excel-model/ZTRI_Scoring_Model_v1.xlsx
-
-/docs/03_Findings_and_Interpretation.md 
+- `/excel-model/ZTRI_Scoring_Model_v1.xlsx`
