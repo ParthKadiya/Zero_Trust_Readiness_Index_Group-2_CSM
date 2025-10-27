@@ -1,5 +1,5 @@
 # Developing a Zero Trust Readiness Index (ZTRI)
-**A framework to measure enterprise-wide Zero Trust adoption**
+**A framework to measure enterprise-wide Zero Trust adoption (Group - 2 - CSM)**
 
 ---
 
