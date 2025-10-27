@@ -138,16 +138,6 @@ The resulting **Total Readiness Score (0–5)** is automatically classified into
 
 ---
 
-## Tools & Techniques
-- **Systematic Literature Review (SLR)**  
-- **Excel-based computation** with IFS logic   
-- **Normalization formula:**  
-  ```
-  Weight = Dimension Frequency / Total Frequency
-  ```
-  
----
-
 Authors:
 
   1) Parth Kadiya  
