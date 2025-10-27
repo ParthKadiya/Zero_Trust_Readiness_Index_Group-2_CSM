@@ -12,9 +12,9 @@
 ---
 
 ## Project Overview
-This repository presents a complete implementation of the **Zero Trust Readiness Index (ZTRI)** a systematic, data-driven method to evaluate how prepared an organization is to adopt or enhance a **Zero Trust Architecture (ZTA)**.
+This repository shows a complete implementation of the **Zero Trust Readiness Index (ZTRI)** a systematic, data-driven method to calculate how prepared an organization is to adopt or enhance a **Zero Trust Architecture (ZTA)**.
 
-The project combines **academic research** and **practical scoring tools** to compute a readiness score (0–5) across **8 key Zero Trust dimensions**, using a **Systematic Literature Review (SLR)** approach.
+The project combines **academic research** and **practical scoring tools** to calculate a readiness score (0–5) across **8 key Zero Trust dimensions**, using a **Systematic Literature Review (SLR)** method.
 
 ---
 
@@ -23,7 +23,7 @@ The project combines **academic research** and **practical scoring tools** to co
 ### Objective
 To design a **Zero Trust Readiness Index (ZTRI)** that:
 - Quantifies readiness using weighted maturity scores.
-- Identifies organizational strengths and gaps across key Zero Trust domains.
+- Identifies organizational strengths and gaps across Zero Trust dimensions.
 - Provides a consistent measurement method aligned with modern ZTA principles.
 
 ### Methodology
