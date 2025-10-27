@@ -1,13 +1,12 @@
-| Paper ID | Paper Title | Identity | Endpoints | Applications | Infrastructure | Data | Networks | Visibility & Analytics | Automation & Orchestration | Total |
-|-----------|-------------|-----------|------------|---------------|----------------|------|-----------|--------------------------|------------------------------|--------|
-| P1 | A Survey of Security in Zero Trust Network Architectures | 10 | 6 | 5 | 4 | 6 | 5 | 3 | 1 | 40 |
-| P2 | Zero Trust Threat Modeling: STRIDE-ZTA | 14 | 0 | 19 | 5 | 11 | 7 | 2 | 1 | 59 |
-| P3 | Emerging Technologies Driving Zero Trust Maturity Across Industries | 13 | 7 | 9 | 6 | 11 | 8 | 4 | 2 | 60 |
-| P4 | A Maturity Framework for Zero-Trust Security in Multi-Access Edge Computing | 9 | 5 | 6 | 8 | 10 | 12 | 3 | 2 | 55 |
-| P5 | NIST CSWP 2.9 – Cybersecurity Framework 2.0 Zero Trust Guidance | 15 | 6 | 8 | 7 | 12 | 10 | 5 | 3 | 66 |
-| P6 | Zero Trust Maturity Model v2.0 (CISA) | 18 | 9 | 11 | 7 | 14 | 10 | 6 | 4 | 79 |
-| P7 | AI and Zero Trust Roadmap (Microsoft) | 16 | 7 | 9 | 5 | 12 | 8 | 5 | 3 | 65 |
-| P8 | Forrester ZTX Ecosystem | 11 | 6 | 8 | 7 | 13 | 9 | 5 | 3 | 62 |
-| P9 | NIST SP 800-207: Zero Trust Architecture | 14 | 8 | 7 | 9 | 10 | 12 | 6 | 4 | 70 |
-| P10 | Zero Trust Cybersecurity: Critical Success Factors and a Maturity Assessment Framework | 17 | 8 | 10 | 6 | 12 | 9 | 7 | 5 | 74 |
-| **Total** |  **137** | **62** | **92** | **64** | **111** | **90** | **46** | **28** | **630** |
+Paper ID,Paper Title,Identity,Endpoints,Applications,Infrastructure,Data,Networks,Visibility & Analytics,Automation & Orchestration,Total
+P1,A Survey of Security in Zero Trust Network Architectures,10,6,5,4,6,5,3,1,40
+P2,Zero Trust Threat Modeling: STRIDE-ZTA,14,0,19,5,11,7,2,1,59
+P3,Emerging Technologies Driving Zero Trust Maturity Across Industries,13,7,9,6,11,8,4,2,60
+P4,A Maturity Framework for Zero-Trust Security in Multi-Access Edge Computing,9,5,6,8,10,12,3,2,55
+P5,NIST CSWP 2.9 – Cybersecurity Framework 2.0 Zero Trust Guidance,15,6,8,7,12,10,5,3,66
+P6,Zero Trust Maturity Model v2.0 (CISA),18,9,11,7,14,10,6,4,79
+P7,AI and Zero Trust Roadmap (Microsoft),16,7,9,5,12,8,5,3,65
+P8,Forrester ZTX Ecosystem,11,6,8,7,13,9,5,3,62
+P9,NIST SP 800-207: Zero Trust Architecture,14,8,7,9,10,12,6,4,70
+P10,Zero Trust Cybersecurity: Critical Success Factors and a Maturity Assessment Framework,17,8,10,6,12,9,7,5,74
+Total,,137,62,92,64,111,90,46,28,630
