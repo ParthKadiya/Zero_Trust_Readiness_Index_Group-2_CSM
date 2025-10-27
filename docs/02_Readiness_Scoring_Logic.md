@@ -1,7 +1,7 @@
 # Readiness Scoring Logic for Zero Trust Readiness Index (ZTRI)
 
 ## Objective
-This section explains how organization-specific maturity scores (0–5 scale) are combined with dimension weights to calculate the **overall Zero Trust Readiness Score** and assign a **readiness category**.
+This explains how organization-specific maturity scores (0–5 scale) are multiplied with dimension weights to calculate the **overall Zero Trust Readiness Score** and assign a **readiness category**.
 
 ---
 
@@ -26,11 +26,11 @@ Each dimension’s contribution to readiness is calculated as:
 
 **Weighted Score = Dimension Weight × Dimension Score**
 
-All eight weighted scores are then summed to produce the **Total Readiness Score**:
+All eight weighted scores are then summed to calculate the **Total Readiness Score**:
 
 **Total Readiness Score = Σ (Weight × Score)**
 
-The resulting value will always fall between **0.00** and **5.00**.
+The resulting value will be always between **0.00** and **5.00**.
 
 ---
 
