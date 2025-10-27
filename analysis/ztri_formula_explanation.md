@@ -1,7 +1,7 @@
 # ZTRI Formula Explanation
 
 ## Purpose
-This file documents the calculation logic behind the **Zero Trust Readiness Index (ZTRI)** to ensure transparency and reproducibility.
+This file tells the calculation logic behind the **Zero Trust Readiness Index (ZTRI)** to confirm transparency and reproducibility.
 
 ---
 
@@ -23,7 +23,7 @@ Total Readiness = 3.11 / 5
 ---
 
 ## 2. Total Readiness Formula
-All weighted scores are summed to compute the final readiness value.
+All weighted scores are summed to calculate the final readiness value.
 
 ```
 Total Readiness Score = Σ (Weight × Score)
