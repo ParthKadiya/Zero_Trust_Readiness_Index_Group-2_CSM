@@ -3,6 +3,14 @@
 
 ---
 
+## Loom Presentation Videos
+| Member | Loom Link |
+|:-------|:-----------|
+| **Parth** | [Watch Here](https://www.loom.com/share/94eba233688b428694e4acb93ba6ebe2?sid=7e3a93c3-c78c-4f5d-9592-1df87bb694f1) |
+| **Jenish** | [Watch Here](https://www.loom.com/share/3d8219219b83478e85cb6cc90ccd2dc8?sid=82beeabe-1eee-455e-b2e8-8176240c047d) |
+
+---
+
 ## Project Overview
 This repository presents a complete implementation of the **Zero Trust Readiness Index (ZTRI)** a systematic, data-driven method to evaluate how prepared an organization is to adopt or enhance a **Zero Trust Architecture (ZTA)**.
 
